@@ -1,0 +1,1 @@
+![alt text](https://github.com/satvick16/transfer-learning-yolov3/blob/master/loss_curve.png.png?raw=true)
