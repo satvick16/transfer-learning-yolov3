@@ -1,3 +1,3 @@
 # Transfer Learning YOLOv3
 
-![loss curve](loss_curve.png.png)
+![loss curve](images/loss_curve.png.png)
